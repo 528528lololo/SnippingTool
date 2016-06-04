@@ -1,0 +1,40 @@
+﻿Построение начато 07.11.2015 23:51:42.
+     1>Проект "C:\Users\lol\Documents\Visual Studio 2010\Projects\SnippingTool\SnippingTool\SnippingTool.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\SnippingTool.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\SnippingTool.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt SnippingTool.cpp /clr:nostdlib 
+         SnippingTool.cpp
+     1>c:\users\lol\documents\visual studio 2010\projects\snippingtool\snippingtool\Form1.h(7): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299): см. объявление "access"
+     1>c:\users\lol\documents\visual studio 2010\projects\snippingtool\snippingtool\Form1.h(163): warning C4129: W: неизвестная escape-последовательность
+     1>c:\users\lol\documents\visual studio 2010\projects\snippingtool\snippingtool\Form1.h(163): warning C4129: s: неизвестная escape-последовательность
+     1>c:\users\lol\documents\visual studio 2010\projects\snippingtool\snippingtool\Form1.h(163): warning C4129: m: неизвестная escape-последовательность
+     1>c:\users\lol\documents\visual studio 2010\projects\snippingtool\snippingtool\Form1.h(165): warning C4129: W: неизвестная escape-последовательность
+     1>c:\users\lol\documents\visual studio 2010\projects\snippingtool\snippingtool\Form1.h(165): warning C4129: s: неизвестная escape-последовательность
+     1>c:\users\lol\documents\visual studio 2010\projects\snippingtool\snippingtool\Form1.h(165): warning C4129: m: неизвестная escape-последовательность
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lol\Documents\Visual Studio 2010\Projects\SnippingTool\Release\SnippingTool.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\SnippingTool.Form1.resources /MANIFEST /ManifestFile:"Release\SnippingTool.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lol\Documents\Visual Studio 2010\Projects\SnippingTool\Release\SnippingTool.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\SnippingTool.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         SnippingTool.vcxproj -> C:\Users\lol\Documents\Visual Studio 2010\Projects\SnippingTool\Release\SnippingTool.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\lol\Documents\Visual Studio 2010\Projects\SnippingTool\Release\SnippingTool.exe;#1" /manifest Release\SnippingTool.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\SnippingTool.unsuccessfulbuild" удаляется.
+         Обращение к "Release\SnippingTool.lastbuildstate".
+     1>Построение проекта "C:\Users\lol\Documents\Visual Studio 2010\Projects\SnippingTool\SnippingTool\SnippingTool.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.66
